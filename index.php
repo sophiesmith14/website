@@ -52,7 +52,7 @@ When I studied abroad in Paris, I took classes at an international business scho
 <h2>Experience</h2>
 <div class="bio">
 <p class= "bio">
- I have held internships in marketing in various fields including a <a href="https://54below.com/"> theatrical management company</a>, <a href="http://www.truviumfinancial.com/"> financial group</a>, and <a href="http://nydis.org/">non profit</a>. Through these positions, I have gained experience in graphic design, social media content creation, and writing and producing video content for a target audience. I have been also completed administrative tasks involving ticket sales, taking minutes for meetings, sending out emails to customer, making copies, and taking staff photos. 
+ I have had internships in marketing in various fields including a <a href="https://54below.com/"> theatrical management company</a>, <a href="http://www.truviumfinancial.com/"> financial group</a>, and <a href="http://nydis.org/">non profit</a>. Through these positions, I have gained experience in graphic design, social media content creation, and writing and producing video content for a target audience. I have been also completed administrative tasks involving ticket sales, taking minutes for meetings, sending out emails to customer, making copies, and taking staff photos. 
 </p>
 </div>
 <figure>
